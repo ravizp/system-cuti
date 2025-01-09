@@ -1,0 +1,82 @@
+[
+  {
+    "nama": "John Doe",
+    "email": "user1@mail",
+    "password": "123456",
+    "noTlp": "081234567890",
+    "address": "Jl. Jendral Sudirman No. 1",
+    "role": "Staff IT"
+  },
+  {
+    "nama": "Miftah",
+    "email": "user2@mail",
+    "password": "123456",
+    "noTlp": "081234567891",
+    "address": "Jl. Jendral Sudirman No. 2",
+    "role": "Staff IT"
+  },
+  {
+    "nama": "Herni",
+    "email": "user3@mail",
+    "password": "123456",
+    "noTlp": "081234567892",
+    "address": "Jl. Jendral Sudirman No. 3",
+    "role": "Manager HRD"
+  },
+  {
+    "nama": "Rizky",
+    "email": "user4@mail",
+    "password": "123456",
+    "noTlp": "081234567893",
+    "address": "Jl. Jendral Sudirman No. 4",
+    "role": "Kurir"
+  },
+  {
+    "nama": "Rizal",
+    "email": "user5@mail",
+    "password": "123456",
+    "noTlp": "081234567894",
+    "address": "Jl. Jendral Sudirman No. 5",
+    "role": "SPV. IT"
+  },
+  {
+    "nama": "Budi",
+    "email": "user6@mail",
+    "password": "123456",
+    "noTlp": "081234567895",
+    "address": "Jl. Jendral Sudirman No. 6",
+    "role": "Manager IT"
+  },
+  {
+    "nama": "Susi",
+    "email": "user7@mail",
+    "password": "123456",
+    "noTlp": "081234567896",
+    "address": "Jl. Jendral Sudirman No. 7",
+    "role": "SPV. Kurir"
+  },
+  {
+    "nama": "Bagus",
+    "email": "user8@mail",
+    "password": "123456",
+    "noTlp": "081234567897",
+    "address": "Jl. Jendral Sudirman No. 8",
+    "role": "Security"
+  },
+  {
+    "nama": "Maman",
+    "email": "user9@mail",
+    "password": "123456",
+    "noTlp": "081234567898",
+    "address": "Jl. Jendral Sudirman No. 9",
+    "role": "Staff IT"
+  },
+  {
+    "nama": "Bagas",
+    "email": "user10@mail",
+    "password": "123456",
+    "noTlp": "081234567899",
+    "address": "Jl. Jendral Sudirman No. 10",
+    "role": "Security"
+  }
+]

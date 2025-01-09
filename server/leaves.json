@@ -1,0 +1,32 @@
+[
+  {
+    "EmployeeId": 1,
+    "dateFrom": "2025-01-10 07:00:00.000 +0700",
+    "dateTo": "2025-01-15 07:00:00.000 +0700",
+    "day": 5,
+    "description": "Sakit",
+    "status": "draft",
+    "message": "-",
+    "recordBy": "[]"
+  },
+  {
+    "EmployeeId": 4,
+    "dateFrom": "2025-01-10 07:00:00.000 +0700",
+    "dateTo": "2025-01-13 07:00:00.000 +0700",
+    "day": 3,
+    "description": "Personal leave for family matters",
+    "status": "draft",
+    "message": "-",
+    "recordBy": "[]"
+  },
+  {
+    "EmployeeId": 1,
+    "dateFrom": "2025-01-16 07:00:00.000 +0700",
+    "dateTo": "2025-01-18 07:00:00.000 +0700",
+    "day": 2,
+    "description": "Personal leave for family matters",
+    "status": "draft",
+    "message": "-",
+    "recordBy": "[]"
+  }
+]
